@@ -6,7 +6,7 @@ Ant is the eldest of the various Java build automation frameworks and it is stil
 ### Setup
 
 #### Install Ant
-Download and install Apache Ant (version 1.10.10) from:
+Download and install Apache Ant (version 1.10.13) from:
 
 https://ant.apache.org/bindownload.cgi
 
@@ -44,7 +44,7 @@ java -jar target/hello-world-all-1.0-SNAPSHOT.jar
 
 ## Maven
 ### Setup
-Download and install Apache Maven (version 3.8.4) from:
+Download and install Apache Maven (version 3.9.0) from:
 
 https://maven.apache.org/download.cgi
 
@@ -73,7 +73,7 @@ java -jar target/hello-world-1.0-SNAPSHOT-jar-with-dependencies.jar
 
 ## Gradle
 ### Setup
-Download and install Gradle (version 7.3.3) from:
+Download and install Gradle (version 7.6) from:
 
 https://gradle.org/releases/
 
